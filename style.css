@@ -1,0 +1,44 @@
+
+*{
+    margin: 0;
+    padding: 0;  
+}
+#box {
+    padding: 20% 20% 25% 25%;
+    background-color: rgb(5, 5, 5);
+}
+#box_2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#sub_box {
+    padding: 100px 210px;
+    background-color: rgb(255, 106, 6);
+    justify-content: space-evenly;
+    
+}
+
+#minibox {
+    padding: 100px 130px;
+    background-color: rgb(245, 162, 9);  
+}
+#Now{
+    display: flex;
+    justify-content: space-evenly; 
+}
+#greenbox{
+    padding: 100px 150px;
+    background-color: rgba(21, 151, 3, 0.788);
+    justify-content: space-evenly;
+}
+
+#blue{
+    padding: 50px 190px;
+    background-color: rgb(16, 169, 216);
+}
+
+#blue2{
+    padding: 50px 170px;
+    background-color: rgb(16, 169, 216);
+}
